@@ -1,0 +1,1 @@
+#define KOEF 0.947f
